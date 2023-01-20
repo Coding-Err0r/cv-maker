@@ -1,0 +1,15 @@
+.container {
+  @apply flex flex-col  justify-center items-center;
+}
+
+.photo {
+  @apply mb-4 rounded-full;
+}
+
+.rounded {
+  @apply rounded-full h-56 w-72;
+}
+
+.item {
+  @apply flex flex-col mb-2;
+}

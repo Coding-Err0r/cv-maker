@@ -1,0 +1,7 @@
+.language {
+  @apply bg-gray-700 mb-1 border-r-2 rounded-xl lg:bg-dark flex items-center text-xs text-white tracking-widest cursor-pointer;
+}
+
+.span {
+  @apply px-2;
+}
