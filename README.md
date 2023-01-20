@@ -11,7 +11,7 @@
   <h3 align="center">CV Maker</h3>
 
   <p align="center">
-    Demo : <a href="">CV Maker</a>
+    Demo : <a href="https://cv-maker-six.vercel.app/">CV Maker</a>
     <br />
     <br />
   </p>
